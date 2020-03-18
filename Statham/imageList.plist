@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Quotes</key>
+	<array>
+		<string>Кто носит кофту адидас и душится одеколоном &quot;Шик&quot; - тому любая баба даст, а может даже и мужик</string>
+		<string>Что русскому здорово, то немцу смерть</string>
+		<string>Язык до киллера доведет</string>
+		<string>Хорошему Фаберже яйца не мешают</string>
+		<string>Не суй нос не в свое дело</string>
+		<string>Любишь кататься - люби и катайся</string>
+		<string>Лучше c Петровым на Майорке, чем с майором на Петровке</string>
+		<string>Крут был Лёха, а кинули как лоха</string>
+		<string>Жарить пчелку - мало толку</string>
+	</array>
+	<key>Images</key>
+	<array>
+		<string>7</string>
+		<string>6</string>
+		<string>1</string>
+		<string>2</string>
+		<string>3</string>
+		<string>4</string>
+		<string>5</string>
+	</array>
+</dict>
+</plist>
